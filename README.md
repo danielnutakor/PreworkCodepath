@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There was an error which occurred which turned my app simulator screen black forcing me to recreate the initial tip calculator multiple times. This issue would occur repeatedly as I attempted to add the settings page.
 
 ## License
 
